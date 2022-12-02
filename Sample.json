@@ -1,0 +1,52 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    },
+    {
+        "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+        },
+        "author": null,
+        "title": "Bowl projections: Southern California, Michigan move into College Football Playoff after wild weekend",
+        "description": "A wild penultimate weekend of the college football season saw major changes to this week's bowl projections, including two new teams joining playoff.",
+        "url": "https://www.usatoday.com/story/sports/ncaaf/2022/11/28/college-football-bowl-projections-usc-michigan-playoff/10784280002/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2022/11/28/USAT/db36250c-ed7a-404e-becf-a9aaa4e028b8-USATSI_19510147.jpg?auto=webp&crop=4838,2721,x0,y0&format=pjpg&width=1200",
+        "publishedAt": "2022-11-28T15:28:23+00:00",
+        "content": "The College Football Playoff projection got a major facelift with two surprising results that have caused half the field to adjusted.\r\nThe first newcomer is Southern California. The path for the Troj… [+2189 chars]"
+        },
+        {
+        "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+        },
+        "author": "Brian Osgood",
+        "title": "Ongoing protests cast shadow over World Cup for Iranian Americans",
+        "description": "Protests against the Iranian government following the death of 22-year-old Mahsa Amini have spilled over into football.",
+        "url": "http://www.aljazeera.com/news/2022/11/28/ongoing-protests-cast-shadow-over-world-cup-for-iranian-americans",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/11/SSS13772.jpg?resize=1920%2C1440",
+        "publishedAt": "2022-11-28T20:01:13Z",
+        "content": "Los Angeles, California, United States For years, cheering on the Iranian national football team was a way for some Iranian Americans to celebrate their home country without endorsing the clerical go… [+6603 chars]"
+        }
+  ]
+}
