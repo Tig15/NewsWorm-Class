@@ -66,8 +66,8 @@ export class News extends Component {
   };
 
   fetchMoreData = async () => {
+    const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=f086cc909b73435095a4138c7c69b651&page=${this.state.page+1}&pageSize=${this.props.pageSize}`;
     this.setState({ page: this.state.page + 1 });
-    const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=f086cc909b73435095a4138c7c69b651&page=${this.state.page}&pageSize=${this.props.pageSize}`;
     let data = await fetch(url);
     let parseData = await data.json();
     this.setState({
@@ -85,7 +85,7 @@ export class News extends Component {
           hasMore={this.state.articles.length !== this.state.totalResults}
         >
           <div className="container my-4">
-            <h2 className="text-center" style={{ margin: "35px 0px" }}>
+            <h2 className="text-center" style={{ margin: "90px 0px" }}>
               NewsWorm - Top {this.capitalize(this.props.category)} Headline
             </h2>
             {this.state.loading && <Spinner />}
